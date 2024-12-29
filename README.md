@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, Welcome to my space</h1>
 <h4 align="center">I am Lynn. A fun and outdoorsy developer from US, living in Wisconsin.</h4>
 💬 You can ask me about **PHP, Laravel, Vue.js. Actually any development topics and more. <br><br>
@@ -26,4 +25,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![image](https://github.com/user-attachments/assets/e32fa60a-a27a-4550-9721-d2ec0d8dc8db)
+
