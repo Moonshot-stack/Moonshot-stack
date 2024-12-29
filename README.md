@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, Welcome to my space</h1>
+<h1 align="center">Welcome to My Space</h1>
 <h4 align="center">I am Lynn. A fun and outdoorsy developer from US, living in Wisconsin.</h4>
-💬 You can ask me about **PHP, Laravel, Vue.js. Actually any development topics and more. <br><br>
+💬 You can ask me about <b>PHP, Laravel, Vue.js, SQL</b>. Actually any development topics and more. <br><br>
 :trophy: Besides development work, I also enjoy meeting with end-users and customers to get the first-hand feedback, and convert them into our strategy and development plan. <br><br>
 :arrow_forward: I am a self-starter, always curious and stay humble.
 <br><br>
